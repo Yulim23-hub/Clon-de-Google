@@ -16,4 +16,4 @@ Sección muestra el menú y foto de perfil
 Contiene los elementos centrales de el buscador
 3. Footer
 Incluye hipervínculos al final de la página
-Realizado por Karina Hdz.
+Realizado por Nactalic Torres ❤️.
